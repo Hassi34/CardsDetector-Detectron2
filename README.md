@@ -24,13 +24,14 @@
 <p align="center">
     <img width="600" src="static/web.gif" alt="About Web-App">
 </p>
+
 ## Overview
 This is a web app to detect and classify images. Users can use the web interface or the REST API<br>
 Following are the major contents to follow, you can jump to any section:
 
 >   1. [Live Project Link](#)
 >   2. [Run Locally](#run-local)
->   3. [Model Training](#)
+>   3. [Model Training](https://github.com/Hassi34/CardsDetector-Detectron2/blob/main/CardsDetectorCustomTrainingDetectron2.ipynb)
 >   4. [REST API](#rest-api)
 ### 🔗 Project Link<a id='live-project'></a>
 Check out the deployed app [here](#)
@@ -91,7 +92,7 @@ if __name__ == '__main__':
     else :
         print(res)
 ```
-**Note**:**It is highly recommended to use the Linux environment while running the project locally**
+**Note**:**It is strongly recommended to use the Linux environment while running the project locally**
 
 **Copyright &copy; 2022 Hasanain** <br>
 Let's connect on **[``LinkedIn``](https://www.linkedin.com/in/hasanain-mehmood)** <br>
