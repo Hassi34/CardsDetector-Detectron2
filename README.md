@@ -3,14 +3,12 @@
         <h1 align="center">♠ Cards Detector ♠</h1>
     </b>
 </p>
-<!-- <p align="center">
-    <em>A Computer Vision based object detection web app for detecting and classifying the cards in the image</em>
-</p> -->
+
 <p align="center">
-<a href="https://github.com/Hassi34/Warehouse-Apparel-Detector-YOLOv5">
+<a href="https://github.com/Hassi34/CardsDetector-Detectron2">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&c=g&size=18&duration=3000&pause=6000&multiline=True&center=true&width=800&height=40&lines=A+Vision+AI+based+object+detection+web+app+to+detect+the+cards+present+in+the+image;" alt="Typing SVG" />
 </a>
-<a href="https://github.com/Hassi34/Warehouse-Apparel-Detector-YOLOv5">
+<a href="https://github.com/Hassi34/CardsDetector-Detectron2">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=1000&multiline=False&color=10D736FF&center=true&width=400&height=40&lines=AI+%7C+Computer+Vision+%7C+Web+App%7C+REST+API;Python+%7C+3.7+%7C+3.8+%7C+3.9+%7C+3.10;Detectron2+%7C+Flask" alt="Typing SVG" />
 </a>
 </p>
